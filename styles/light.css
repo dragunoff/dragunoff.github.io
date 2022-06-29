@@ -1,0 +1,7 @@
+:root {
+  --color: #0d0d0d;
+  --background-color: #f0f0f0;
+  --color-brand: #00bb73;
+  --color-link: var(--color-brand);
+  --color-link-visited: var(--color-brand);
+}
